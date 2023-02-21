@@ -6,7 +6,7 @@ This repository allows for the reproduction of the numerical experiments in Tens
 
 Install the [GPLM toolbox](http://www.gaussianprocess.org/gpml/code/matlab/doc/) for results related to the UCI benchmark.
 All former UCI datasets can be downloaded from the [webpage of Andrew Wilson](https://people.orie.cornell.edu/andrew/pattern/#Data).
-The SUSY dataset can be downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SUSY)). 
+The SUSY dataset can be downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SUSY). 
 
 ## Training and Evaluation
 
